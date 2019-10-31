@@ -2,6 +2,6 @@
     "Arma3": "false",
     "Dayz": "false",
     "R6S": "false",
-    "Rust": "false",
-    "Former": "true"
+    "Rust": "true",
+    "Former": "false"
 }
