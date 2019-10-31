@@ -1,7 +1,7 @@
 {
     "Arma3": "true",
-    "Dayz": "true",
-    "R6S": "true",
-    "Rust": "true",
+    "Dayz": "false",
+    "R6S": "false",
+    "Rust": "false",
     "Former": "false"
 }
